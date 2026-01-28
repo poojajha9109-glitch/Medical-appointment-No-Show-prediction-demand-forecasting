@@ -408,16 +408,4 @@ pip install -r requirements.txt --upgrade
 - **Days 7-8:** Streamlit app development
 - **Days 9-10:** Testing, optimization, and deployment
 
-## Support & Contact
 
-For questions or issues, refer to:
-- Project Orientation Session (English/Hindi available)
-- Project Doubt Clarification Session (Mon-Sat, 3:30-4:30 PM)
-- Live Evaluation Session (Booking opens Sat-Sun)
-
----
-
-**Created:** January 2026  
-**Last Updated:** January 25, 2026  
-**License:** MIT  
-**Author:** Data Science Project Team
